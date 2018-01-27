@@ -1,0 +1,26 @@
+html{
+    background-color: antiquewhite;
+}
+  h1 {
+     margin:0; 
+    font-size:60px;
+    text-align:center;
+    color:#02031b;
+    text-shadow:3px 3px 3px rgb(13, 182, 168);
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  body{
+      margin:0 auto,0 auto;
+      background-color:#f0cfa1;
+      padding:0px 0px 0px 0px;
+      border: 0px;
+      text-align: center;
+  }
+  p,li {
+      font-size:16px;
+      line-height:2;
+      letter-spacing:1px;
+  }
